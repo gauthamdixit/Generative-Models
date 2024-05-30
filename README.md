@@ -22,6 +22,7 @@ Style Transfer:
 Implements algorithm from paper: A Neural Algorithm of Artistic Style https://arxiv.org/pdf/1508.06576v2
 
 Takes a source image and recreates it in a specific artistic style. 
+
 Algorithm:
 ![alt text](images/image-1.png)
 
