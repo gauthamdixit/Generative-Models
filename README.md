@@ -4,6 +4,10 @@ Stable Diffusion:
 
 Uses VAE encoder-decoder architecture to reduce image size for computational purposes during training and inference. After the encoder, the data is passed to a UNET which determines how much noise needs to be removed from the image to generate a new image. Attention mechanism is used to correlate text prompts to images. demo.ipynb has a variable "cfg_scale" which determines how much the generated images should follow the prompt. To run, change the prompt and negative prompt variable in demo.ipynb and make sure the prompt has less than the max 77 tokens.
 
+NOTE:
+
+The ckpt file which containes the saved weights is NOT included as it is too large. In order to run this, you will need the ckpt file (which I can provide) or train the model from scratch which is extremely resource intesive to say the least.
+
 Algorithm:
 
 ![alt text](images/image.png)
