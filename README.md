@@ -6,11 +6,11 @@ Uses VAE encoder-decoder architecture to reduce image size for computational pur
 
 Algorithm:
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 Examples:
 
-![alt text](Astronaut_on_Dino_Mars.png) ![alt text](naruto_ganesha.png) ![alt text](Pikachu_Spiderman.png)
+![alt text](images/Astronaut_on_Dino_Mars.png) ![alt text](images/naruto_ganesha.png) ![alt text](images/Pikachu_Spiderman.png)
 
 
 Style Transfer:
@@ -19,7 +19,7 @@ Implements algorithm from paper: A Neural Algorithm of Artistic Style https://ar
 
 Takes a source image and recreates it in a specific artistic style. 
 Algorithm:
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 Examples:
 
@@ -29,8 +29,8 @@ Content image:
 
 Style image:
 
-![alt text](style.jpg)
+![alt text](images/style.jpg)
 
 Style Transfer:
 
-![alt text](image_style_w=0.01__content_w=10000.0__steps=1000.png)
+![alt text](images/image_style_w=0.01__content_w=10000.0__steps=1000.png)
