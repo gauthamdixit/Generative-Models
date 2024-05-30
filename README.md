@@ -7,6 +7,7 @@ Uses VAE encoder-decoder architecture to reduce image size for computational pur
 ![alt text](image.png)
 
 example images:
+
 ![alt text](Astronaut_on_Dino_Mars.png) ![alt text](naruto_ganesha.png) ![alt text](Pikachu_Spiderman.png)
 
 
@@ -20,10 +21,13 @@ Algorithm:
 Examples:
 
 Source image:
+
 ![alt text](Taj_Mahal.jpg)
 
 Content image:
+
 ![alt text](style.jpg)
 
 Style Transfer:
+
 ![alt text](image_style_w=0.01__content_w=10000.0__steps=1000.png)
