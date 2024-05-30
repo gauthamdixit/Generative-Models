@@ -23,11 +23,11 @@ Algorithm:
 
 Examples:
 
-Source image:
+Content image:
 
 ![alt text](Taj_Mahal.jpg)
 
-Content image:
+Style image:
 
 ![alt text](style.jpg)
 
