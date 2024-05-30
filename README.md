@@ -25,7 +25,7 @@ Examples:
 
 Content image:
 
-![alt text](Taj_Mahal.jpg)
+![alt text](images/Taj_Mahal.jpg)
 
 Style image:
 
