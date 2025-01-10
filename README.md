@@ -6,7 +6,7 @@ Uses VAE encoder-decoder architecture to reduce image size for computational pur
 
 NOTE:
 
-The ckpt file which containes the saved weights is NOT included as it is too large. In order to run this, you will need the ckpt file (which I can provide) or train the model from scratch which is extremely resource intesive to say the least.
+The ckpt file which containes the saved weights is NOT included as it is too large. In order to run this, you will need the ckpt file (which I can provide) or train the model from scratch which is extremely resource intensive to say the least.
 
 Algorithm:
 
